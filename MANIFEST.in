@@ -1,0 +1,2 @@
+include nb_restart/nbextension/*
+include nb_restart/nbextension/lib/*
